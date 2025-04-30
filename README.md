@@ -1,3 +1,2 @@
-# Chat-GTP-landing-page
-Cpa offer Landing page
+# Chat-GTP-landing
 https://sagorcmyk.github.io/Chat-GTP-landing-page/
